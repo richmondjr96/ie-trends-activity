@@ -1,0 +1,73 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyPT9+Jz2rNAxhXv0ploHg6S",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/richmondjr96/ie-trends-activity/blob/main/IE_TRENDS_02a_PhytonBasics\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Xl8mUw5wuqeT"
+      },
+      "source": [
+        "# Python Basics\n",
+        "This section reviews programming fundamentals using Python.\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "Fx6aYg-EvKg_"
+      },
+      "source": [
+        "1"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "lFxR-Z4evC-r"
+      },
+      "source": [
+        "# Variables"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "LqOo86zCupqU"
+      },
+      "source": [
+        "1"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
